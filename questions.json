@@ -1,0 +1,89 @@
+[
+    {
+        "question": "How to insert Hyperlink in HTML Page?",
+        "choice1": "<a href='https://www.sanfoundry.com/1000-html-questions-answers/'>HTML MCQ</a>" ,
+        "choice2": "<a target='https://www.sanfoundry.com/1000-html-questions-answers/'>HTML Quiz</a>",
+        "choice3": "<a src='https://www.sanfoundry.com/1000-html-questions-answers/'>HTML Test</a>",
+        "choice4": "<a href= 'https://www.sanfoundry.com/1000-html-questions-answers/'>HTML</a>",
+        "answer": 1
+
+    },
+    {
+        "question": " What is the use of <hr/> tag in HTML?",
+        "choice1": " For making content appearance italics",
+        "choice2": " To create vertical rule between sections",
+        "choice3": " To create a line break",
+        "choice4": " To create horizontal rule between sections",
+        "answer": 4
+
+    },
+    {
+        "question": "Which attribute specifies a unique alphanumeric identifier to be associated with an element?",
+        "choice1": "type",
+        "choice2": "article",
+        "choice3": "id",
+        "choice4": "class",
+        "answer": 3
+
+    },
+    {
+        "question": "Which of the following is the correct syntax for referring the external style sheet?",
+        "choice1": "<style src = example.css>",
+        "choice2": "<style src = 'example.css' >",
+        "choice3": "<stylesheet> example.css </stylesheet>",
+        "choice4": "<link rel='stylesheet' type='text/css' href='example.css'>",
+        "answer": 4
+
+    },
+    {
+        "question": "The HTML attribute used to define the inline styles is",
+        "choice1": "style",
+        "choice2": "styles",
+        "choice3": "class",
+        "choice4": "None of the above",
+        "answer": 1
+
+    },
+    {
+        "question": "Which of the following is the correct syntax to make the background-color of all paragraph elements to yellow?",
+        "choice1": "p {background-color : yellow;}",
+        "choice2": "p {background-color : #yellow;}",
+        "choice3": "all {background-color : yellow;}",
+        "choice4": "all p {background-color : #yellow;}",
+        "answer": 1
+
+    },
+    {
+        "question": "Javascript is an _______ language?",
+        "choice1": "Object Oriented",
+        "choice2": "Object Based",
+        "choice3": "Procedural",
+        "choice4": "NONE",
+        "answer": 1
+
+    },
+    {
+        "question": "Inside which HTML element do we put the JavaScript??",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+        "choice1": "<script href='xxx.js'>",
+        "choice2": "<script name='xxx.js'>",
+        "choice3": "<script src='xxx.js'>",
+        "choice4": "<script file='xxx.js'>",
+        "answer": 3
+    },
+    {
+        "question": " How do you write 'Hello World' in an alert box?",
+        "choice1": "msgBox('Hello World');",
+        "choice2": "alertBox('Hello World');",
+        "choice3": "msg('Hello World');",
+        "choice4": "alert('Hello World');",
+        "answer": 4
+    }
+]
